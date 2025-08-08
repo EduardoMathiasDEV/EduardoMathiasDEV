@@ -39,6 +39,15 @@ Tenho muita vontade de aprender e crescer na área de tecnologia. 🚀
     </a>
 </p>
 
+
+## Sobre mim
+
+- Atualmente estou Estudando na área de **Engenharia de Software**
+- Veja [minha aba de repositórios](https://github.com/Salgado2004?tab=repositories) para conhecer meus projetos 👨‍💻
+- Me contate no email eduardomathias450@gmail.com 📫
+- Acesse [meu perfil no Linkedin]((https://www.linkedin.com/in/eduardo-mathias-070288379/)) para saber mais de mim 📄
+- Fun fact: Meu código nunca dá erro… ele só cria funcionalidades inesperadas.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias

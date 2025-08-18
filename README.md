@@ -22,15 +22,11 @@ This project will grab your contribution graph through the GitHub API and genera
   <img alt="Breakout Game" src="example/light.svg" />
 </picture>
 
-## Usage
-
-### GitHub Action
 
 You can use the provided GitHub Action to build the SVGs so you can display them like on my profile ([github.com/cyprieng](https://github.com/cyprieng)):
 
 Generate the SVGs every day and commit them to your repository:
 
-```yaml
 name: generate breakout svg
 
 on:
@@ -70,11 +66,9 @@ jobs:
           git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
           git push
-```
 
-Add them to your README.md:
 
-```html
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
